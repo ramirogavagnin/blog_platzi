@@ -27,3 +27,11 @@ body {
   padding-right: 20px;
   text-decoration: none;
 }
+
+.center {
+  text-align: center;
+}
+
+.rojo {
+  color: red;
+}
